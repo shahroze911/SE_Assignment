@@ -2,7 +2,6 @@ import math
 import copy
 import cv2
 import numpy as np
-print("CHANGED BY 17F-8134 ")
 hei = img.shape[0];
 wid = img.shape[1];
 img = cv2.imread('U:\.UNIVERSITY\Semester 5\DIP\Assignments\DIP_A2_Fall2019\White-Bars.png');
